@@ -1,7 +1,7 @@
 Ogenz - Website
 ====
 
-[![Alt text](https://github.com/dhruvpratapsingh/ogenz-website/blob/master/ow.PNG "Demo")]
+![Alt text](https://github.com/dhruvpratapsingh/ogenz-website/blob/master/ow.PNG "Demo")
 
 ###Getting Started###
 
