@@ -1,6 +1,7 @@
 Ogenz - Website
 ====
 
+![Alt text](./ow.png?raw=true "Demo")
 
 ###Getting Started###
 
